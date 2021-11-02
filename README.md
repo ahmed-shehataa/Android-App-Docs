@@ -76,6 +76,9 @@ Your mobile app requirements document should include all technical assets and in
 ### :ringed_planet:	Google Play:
 -   Google Play Developer access
 -   Store listing name
+-   Package name
+-   Min SDK
+-   Programming language
 -   Paid/free
 -   Short description
 -   Full description
